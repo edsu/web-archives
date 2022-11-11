@@ -1,17 +1,63 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+      "title": "Inkdroid Web Archives",
+      "url": "https://inkdroid.org/web-archives/"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
+      "name": "bart-police",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/bart-police.wacz",
+      "description": "An experimental crawl the BART police website"
     },
     {
-      "name": "Twitter",
-      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
-      "description": "Netpreserve Twitter web archive example"
+      "name": "big-mike",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/big-mike.wacz",
+      "description": "Mike Brown's Soundcloud"
+    },
+    {
+      "name": "dama-workshop",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/dama-workshop.wacz",
+      "description": "Digital Archive of Memorialization of Mass Atrocities"
+    },
+    {
+      "name": "docnow",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/docnow.wacz",
+      "description": "Documenting the Now website"
+    },
+    {
+      "name": "github-bitcoin-mining",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/github-bitcoin-mining.wacz",
+      "description": "A malicious GitHub pull request."
+    },
+    {
+      "name": "ia25",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/ia25.wacz",
+      "description": "Internet Archives at 25"
+    },
+    {
+      "name": "ichbinsophiescholl",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/ichbinsophiescholl.wacz",
+      "description": "Instagram tribute to Sophia Scholl"
+    },
+    {
+      "name": "lapd",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/lapd.wacz",
+      "description": "A snapshot of the LAPD website"
+    },
+    {
+      "name": "mitm-attack",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/mitm-attack.wacz",
+      "description": "Web archives as a potential disinformation source"
+    },
+    {
+      "name": "random",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/random.wacz",
+      "description": "Random things I've collected"
+    },
+    {
+      "name": "www-talk",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/www-talk.wacz",
+      "description": "The www-talk w3c discussion list"
     }
   ]
 }

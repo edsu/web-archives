@@ -1,0 +1,10 @@
+#!/bin/bash
+
+aws s3 sync _s3 s3://edsu-webarchives
+
+npm run build
+
+# not sure why this is needed given it's in .gitignore
+rm -rf _site/_s3
+
+rsync -ar --rsh='ssh -p22334' _site/ ed@inkdroid.org:/var/www/inkdroid.org/web-archives
