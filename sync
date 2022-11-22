@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WRG_CONFIG_NAME=config.json
+export WRG_CONFIG_NAME=config.json
 
 aws s3 sync _s3 s3://edsu-webarchives
 
