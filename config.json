@@ -1,6 +1,6 @@
 {
   "site": {
-      "title": "Inkdroid Web Archives",
+      "title": "Inkdroid - Web Archives",
       "url": "https://inkdroid.org/web-archives/"
   },
   "archives": [
@@ -40,6 +40,11 @@
       "description": "Instagram tribute to Sophia Scholl"
     },
     {
+        "name": "in-rainbows",
+        "url": "https://edsu-webarchives.s3.amazonaws.com/in-rainbows.wacz",
+        "description": "In Rainbows from the Basement"
+    },
+    {
       "name": "lapd",
       "url": "https://edsu-webarchives.s3.amazonaws.com/lapd.wacz",
       "description": "A snapshot of the LAPD website"
@@ -53,6 +58,11 @@
       "name": "random",
       "url": "https://edsu-webarchives.s3.amazonaws.com/random.wacz",
       "description": "Random things I've collected"
+    },
+    {
+        "name": "scotch-mist",
+        "url": "https://edsu-webarchives.s3.amazonaws.com/scotch-mist.wacz",
+        "description": "Scotch Mist by Radiohead"
     },
     {
       "name": "Twitter Bookmarks",
