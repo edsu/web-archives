@@ -65,6 +65,11 @@
         "description": "Scotch Mist by Radiohead"
     },
     {
+        "name": "stanford-fb",
+        "url": "https://edsu-webarchives.s3.amazonaws.com/stanford-fb.wacz",
+        "description": "Stanford University Facebook Group"
+    },
+    {
       "name": "Twitter Bookmarks",
       "url": "https://edsu-webarchives.s3.amazonaws.com/twitter-bookmarks.wacz",
       "description": "A snapshot of my Twitter bookmarks"
