@@ -40,9 +40,9 @@
       "description": "Instagram tribute to Sophia Scholl"
     },
     {
-        "name": "in-rainbows",
-        "url": "https://edsu-webarchives.s3.amazonaws.com/in-rainbows.wacz",
-        "description": "In Rainbows from the Basement"
+      "name": "in-rainbows",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/in-rainbows.wacz",
+      "description": "In Rainbows from the Basement"
     },
     {
       "name": "lapd",
@@ -60,14 +60,19 @@
       "description": "Random things I've collected"
     },
     {
-        "name": "scotch-mist",
-        "url": "https://edsu-webarchives.s3.amazonaws.com/scotch-mist.wacz",
-        "description": "Scotch Mist by Radiohead"
+      "name": "reallife",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/reallifemag.wacz",
+      "description": "Real Life Magazine (2016-2022)"
     },
     {
-        "name": "stanford-fb",
-        "url": "https://edsu-webarchives.s3.amazonaws.com/stanford-fb.wacz",
-        "description": "Stanford University Facebook Group"
+      "name": "scotch-mist",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/scotch-mist.wacz",
+      "description": "Scotch Mist by Radiohead"
+    },
+    {
+      "name": "stanford-fb",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/stanford-fb.wacz",
+      "description": "Stanford University Facebook Group"
     },
     {
       "name": "Twitter Bookmarks",
