@@ -15,6 +15,11 @@
       "description": "Mike Brown's Soundcloud"
     },
     {
+      "name": "buried-signals",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/buried-signals.wacz",
+      "description": "Buried Signals Spotlights"
+    },
+    {
       "name": "dama-workshop",
       "url": "https://edsu-webarchives.s3.amazonaws.com/dama-workshop.wacz",
       "description": "Digital Archive of Memorialization of Mass Atrocities"
