@@ -60,6 +60,16 @@
       "description": "Web archives as a potential disinformation source"
     },
     {
+      "name": "NYTimes (ArchiveWebPage)",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/nyt-archivewebpage.wacz",
+      "description": "A snapshot of a NYTimes article using ArchiveWebPage"
+    },
+    {
+      "name": "NYTimes (SavePageNow)",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/nyt-spn.wacz",
+      "description": "A snapshot of a NYTimes article using Internet Archive's SavePageNow"
+    },
+    {
       "name": "random",
       "url": "https://edsu-webarchives.s3.amazonaws.com/random.wacz",
       "description": "Random things I've collected"
