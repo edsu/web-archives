@@ -98,6 +98,11 @@
       "name": "www-talk",
       "url": "https://edsu-webarchives.s3.amazonaws.com/www-talk.wacz",
       "description": "The www-talk w3c discussion list"
+    },
+    {
+      "name": "mom",
+      "url": "https://edsu-webarchives.s3.amazonaws.com/mom.wacz",
+      "description": "Small little things from the web about my Mom"
     }
   ]
 }
